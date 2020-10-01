@@ -1,5 +1,5 @@
 # Whatsapp-scraper
-Scrapping Whatsapp Data
+Scrapping WhatsApp Data
 ## Usage
 1. Add contacts in contacts array 
 2. Run below command 
